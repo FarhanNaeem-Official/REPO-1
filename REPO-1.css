@@ -41,3 +41,44 @@ section
     border-radius: 5px;
     font-weight: bold;
 }
+.dream
+{
+    background-image: url("dream.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.category
+{
+    color: blueviolet;
+}
+.experience-area
+{
+    background-image: url("footer.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.baby
+{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 80%;
+}
+#tiger-cat
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+
+
+}
+#tom-cat
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, rgb(68, 12, 133), rgb(16, 173, 139));
+    border-image-slice: 1;
+
+
+}
+footer p{
+    text-align: center;
+}
